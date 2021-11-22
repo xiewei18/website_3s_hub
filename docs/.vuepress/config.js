@@ -10,7 +10,7 @@ module.exports = {
   title: "3S-Hub",
   description: 'GIS/RS/GPS 数据与经验资源导航',
   themeConfig: {
-    sidebar: { mode: 'structuring', collapsable: false} //  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
+    sidebar: { mode: 'structuring', collapsable: true} //  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
   },
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
