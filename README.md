@@ -11,16 +11,12 @@
 目标：解决目前地信遥感方向数据混杂，资源难以寻找的问题，构建一个地信遥感学习、讨论、交流的平台。
 
 
-
-:::tip
-网站内容正在逐步共建和上线，欢迎加入共建群。
-:::
-
+> 网站内容正在逐步共建和上线，欢迎加入共建群。
 
 
 [开发日志](https://docs.qq.com/doc/DTUlDbWp4dlJyZHZE)
 
-[更新日志]()
+[更新日志](https://github.com/Gleaner2021/website_3s_hub/commits)
 
 
 
@@ -34,17 +30,16 @@
 
 遥感地信经验技巧交流~
 
-:::
 
-发现bug
 
-如果你发现了数据下载方法错误或者过时:
+> 发现bug
+> 
+> 如果你发现了数据下载方法错误或者过时:
+> 
+> 1.进入该网站的**[GitHub](https://github.com/ruiduobao/ruiduobao.com.git)仓库**，提交修改后的md文档或网站大纲；
+> 
+> 2.或者进入问题反馈QQ群。
 
-1.进入该网站的**[GitHub](https://github.com/ruiduobao/ruiduobao.com.git)仓库**，提交修改后的md文档或网站大纲；
-
-2.或者进入问题反馈QQ群。
-
-:::
 
 
 
